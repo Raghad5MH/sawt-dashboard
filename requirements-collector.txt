@@ -1,0 +1,3 @@
+# Only needed for collect_youtube_data.py (the dashboard does not use it)
+google-api-python-client>=2.100
+pandas>=2.0
