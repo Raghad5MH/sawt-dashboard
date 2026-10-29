@@ -11,15 +11,18 @@ By: Raghad Alharbi.
 ## Project files
 
 ```text
+```text
 sawt_dashboard/
-├── app.py                 # Streamlit dashboard
-├── collect_youtube_data.py  # Optional YouTube Data API collector
-├── requirements.txt       # Dashboard dependencies
+├── app.py
+├── collect_youtube_data.py
+├── requirements.txt
 ├── requirements-collector.txt
 ├── data/
-│   └── clean_data.csv     # Dataset used by the dashboard and notebook
+│   ├── saudi_podcast.csv
+│   └── clean_data.csv
 └── notebooks/
-    └── EDA_Podcast_EDA_Clean_English_improved.ipynb
+    └── EDA_Podcast.ipynb
+```
 ```
 
 ## Run the dashboard
