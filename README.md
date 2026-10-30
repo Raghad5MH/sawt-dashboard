@@ -2,6 +2,8 @@
 
 SAWT is an interactive Streamlit dashboard for exploring Saudi podcast videos on YouTube. The project combines a reproducible EDA notebook, a local dataset, and an optional script for collecting fresh data.
 
+**Live demo:** https://sawt-podcast.streamlit.app/
+
 By: Raghad Alharbi.
 
 ## Project question
